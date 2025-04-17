@@ -1,5 +1,3 @@
----
-
 ### **Project Title:**  
 **Baby Name Trend Analysis (1980–2010)**
 
